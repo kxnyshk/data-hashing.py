@@ -2,25 +2,25 @@
 A .py application to hash secure user entered sensitive data or passwords using the **SHA3-256** Crypto Algorithm, to make one's available online data secure & resistive against possible data breaches online.
 
 ## Fetching the repo
- - Download the .zip file from [here](https://github.com/kxnyshk/data-hashing.py/archive/refs/heads/master.zip)
+ - Download the .zip file from [**here**](https://github.com/kxnyshk/data-hashing.py/archive/refs/heads/master.zip)
  - Unzip/Extract the directory.
  - Open the extracted directory in VsCode or any other IDE of your choice.
 
 ## How to execute
  - Open the Terminal of your choosen IDE.
  - Execute the [**main.py**](https://github.com/kxnyshk/data-hashing.py/blob/master/main.py) script, either by using the command:
-    - `py main.py`        (Python execution) or
-    - `nodemon main.py`   (Node/Nodemon execution)
+    - **`py main.py`**        (Python execution) or
+    - **`nodemon main.py`**   (Node/Nodemon execution)
     * (Make sure your system has Python/Node/Nodemon installed prior execution)
 
 ## Using the application
  - Enter your identity as asked   (official/non-offcial)
  - Enter the data/password you wanna hash
- - The SHA3-256 Hash (HexCode) for the specified data will be generated
+ - The **SHA3-256 Hash (HexCode)** for the specified data will be generated
  
  ### Commands
-   - Press `-1`: to terminate the application.
-   - Press `0`: to re-run **main.py**
+   - Press **`-1`**: to terminate the application
+   - Press **`0`**: to re-run main.py
 
 ## Hashing used
  - The hash algorithm used for hashing is **SHA3-256**
