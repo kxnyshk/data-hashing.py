@@ -7,11 +7,19 @@ A .py application to hash secure user entered sensitive data or passwords using 
  - Open the extracted directory in VsCode or any other IDE of your choice.
 
 ## How to execute
- - Open the Terminal of your choosen IDE.
- - Execute the [**main.py**](https://github.com/kxnyshk/data-hashing.py/blob/master/main.py) script, either by using the command:
-    - **`py main.py`**        (Python execution) or
-    - **`nodemon main.py`**   (Node/Nodemon execution)
-    * (Make sure your system has Python/Node/Nodemon installed prior execution)
+ There are two ways to execute the application:
+ 
+ ### Executing .py file using Terminal
+  - Open the Terminal of your choosen IDE.
+  - Execute the [**main.py**](https://github.com/kxnyshk/data-hashing.py/blob/master/main.py) script, either by using the command:
+     - **`py main.py`**        (Python execution) or
+     - **`nodemon main.py`**   (Node/Nodemon execution)
+     * (Make sure your system has Python/Node/Nodemon installed prior execution)
+ 
+ ### Executing .exe file
+  - After you have extracted the zip file, open it.
+  - Head towards the **`/dist/main/main.exe`** executable file location, [link](https://github.com/kxnyshk/data-hashing.py/blob/master/build/main/main.exe)
+  - Execute the file with double clicking it, the application will be launched.
 
 ## Using the application
  - Enter your identity as asked   (official/non-offcial)
