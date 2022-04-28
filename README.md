@@ -18,7 +18,7 @@ A .py application to hash secure user entered sensitive data or passwords using 
  
  ### Executing .exe file
   - After you have extracted the zip file, open it.
-  - Head towards the **`/dist/main/main.exe`** executable file location, [link](https://github.com/kxnyshk/data-hashing.py/blob/master/build/main/main.exe)
+  - Head towards the **`/dist/main/main.exe`** executable file location, [**link**](https://github.com/kxnyshk/data-hashing.py/blob/master/build/main/main.exe)
   - Execute the file with double clicking it, the application will be launched.
 
 ## Using the application
